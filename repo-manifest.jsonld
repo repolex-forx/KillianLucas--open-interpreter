@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/KillianLucas/open-interpreter/commit/ac1fcc8fe57aba51fcc3c79afd57a0883237fe87",
       "git:hexsha": "ac1fcc8fe57aba51fcc3c79afd57a0883237fe87",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T19:58:12.428336+00:00"
     },
     {
       "@id": "https://repolex.ai/r/KillianLucas/open-interpreter/commit/50a248d56b6a8cc78085ced8d81adf88158af122",
